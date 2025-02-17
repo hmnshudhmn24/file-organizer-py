@@ -38,6 +38,3 @@ Downloads/
   Videos/
     file3.mp4
 ```
-
-## License
-This project is open-source and free to use.
